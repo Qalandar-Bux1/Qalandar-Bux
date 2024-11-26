@@ -9,6 +9,7 @@
     src="https://visitor-badge.laobi.icu/badge?page_id=Qalandar-Bux1" 
     alt="Visitor Badge" 
     style="border: 1px solid #ccc; border-radius: 5px; padding: 2px;"
+     
   />
 </div>
 
